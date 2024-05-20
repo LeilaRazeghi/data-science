@@ -1,7 +1,7 @@
 ## 1- Crop Numbers
-input: ![](input\numbers.jpg)
+input: ![](input/numbers.jpg)
 
-output: ![](output(numbers)\sepratedno.png)
+output: ![](output(numbers)/sepratedno.png)
 
 ## 2- W3school matplotlib tutorial
 
